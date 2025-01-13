@@ -15,7 +15,6 @@ I'm currently doing a postgraduate degree in Software Engineering and working wi
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=EduuuCr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=EduuuCr&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=66046gjpx28cl7h4wft8ooy0h">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=66046gjpx28cl7h4wft8ooy0h" alt="Data Card for Spotify">
+</a>
