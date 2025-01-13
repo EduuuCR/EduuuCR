@@ -1,8 +1,8 @@
-# 💫 About Me:
+#  About Me:
 I'm currently doing a postgraduate degree in Software Engineering and working with IT
 
 
-## 🌐 Socials:
+##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/edu_ktk/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eduardo-campos-87458819b/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/dudu_ktk) 
 
 # 💻 Tech Stack:
@@ -18,3 +18,5 @@ I'm currently doing a postgraduate degree in Software Engineering and working wi
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=66046gjpx28cl7h4wft8ooy0h">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=66046gjpx28cl7h4wft8ooy0h" alt="Data Card for Spotify">
 </a>
+
+![Visitor Count](https://profile-counter.glitch.me/{EduuuCR}/count.svg)
