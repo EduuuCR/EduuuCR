@@ -19,4 +19,13 @@ I'm currently doing a postgraduate degree in Software Engineering and working wi
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=66046gjpx28cl7h4wft8ooy0h" alt="Data Card for Spotify">
 </a>
 
-![Visitor Count](https://profile-counter.glitch.me/{EduuuCR}/count.svg)
+
+
+<br>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://media.tenor.com/5E950S7t-TkAAAAi/hatsune-miku.gif" width="30">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/EduuuCR/count.svg">
+    <img src="https://media.tenor.com/5E950S7t-TkAAAAi/hatsune-miku.gif" width="30">
+</div>
+<br>
+<br>
