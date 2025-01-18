@@ -19,7 +19,7 @@ I'm currently doing a postgraduate degree in Software Engineering and working wi
 <tr>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=EduuuCr&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduuuCR&theme=nightowl&hide_border=false" alt="AAL1X streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduuuCR&theme=nightowl&hide_border=false" alt="EduuuCR streak" />
 </td>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduuuCr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
