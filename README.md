@@ -1,7 +1,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 # ***About Me***:
-I'm currently doing a postgraduate degree in Software Engineering and working with IT
+I recently finished my bachelor's degree in Computer Science, and i'm currently doing a postgraduate degree in Software Engineering and working with IT!
 
 
 # ***Socials***:
