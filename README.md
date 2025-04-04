@@ -1,4 +1,4 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/EduuuCR/EduuuCR/raw/main/assets/line-neon.gif" width="100%">
 
 # ***About Me***:
 I recently finished my bachelor's degree in Computer Science, and i'm currently doing a postgraduate degree in Software Engineering and working with IT!
@@ -55,4 +55,4 @@ I recently finished my bachelor's degree in Computer Science, and i'm currently 
 
 
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/EduuuCR/EduuuCR/raw/main/assets/line-neon.gif" width="100%">
