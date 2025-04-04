@@ -36,7 +36,9 @@ I recently finished my bachelor's degree in Computer Science, and i'm currently 
 ### ***Top Contributed Repo***:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![](https://github-contributor-stats.vercel.app/api?username=EduuuCr&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=EduuuCr&limit=5&theme=dark&combine_all_yearly_contributions=true">
+</p>
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=66046gjpx28cl7h4wft8ooy0h">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=66046gjpx28cl7h4wft8ooy0h" alt="Data Card for Spotify">
