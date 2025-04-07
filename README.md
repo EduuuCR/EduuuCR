@@ -4,7 +4,7 @@
 I recently finished my bachelor's degree in Computer Science, and i'm currently doing a postgraduate degree in Software Engineering and working with IT!
 
 
-# ***Socials***:
+# <img src="https://cdn.pixabay.com/animation/2022/11/30/19/48/19-48-34-65_512.gif" width="35">&nbsp;***Socials***:
 <p align="center">
 <a href="https://www.linkedin.com/in/educamposrb/"><img title="LinkedIn" src="https://raw.githubusercontent.com/EduuuCR/EduuuCR/master/assets/linkedin.svg"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/edu_ktk/"><img title="Instagram" src="https://raw.githubusercontent.com/EduuuCR/EduuuCR/master/assets/instagram.svg"/></a>
