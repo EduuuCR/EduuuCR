@@ -1,7 +1,8 @@
 <img src="https://github.com/EduuuCR/EduuuCR/raw/main/assets/line-neon.gif" width="100%">
 
 # ***About Me***:
-I recently finished my bachelor's degree in Computer Science, and i'm currently doing a postgraduate degree in Software Engineering and working with IT!
+Just a simple Brazilian guy working with IT!
+Graduated in Computer Science and currently completing my postgraduate degree in Software Engineering.
 
 
 # <img src="https://cdn.pixabay.com/animation/2022/11/30/19/48/19-48-34-65_512.gif" width="35">&nbsp;***Socials***:
