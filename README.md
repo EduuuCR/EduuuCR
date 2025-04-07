@@ -1,9 +1,8 @@
 <img src="https://github.com/EduuuCR/EduuuCR/raw/main/assets/line-neon.gif" width="100%">
 
 # ***About Me***:
-Just a simple Brazilian guy working with IT!
-Graduated in Computer Science and currently completing my postgraduate degree in Software Engineering.
-
+𝘑𝘶𝘴𝘵 𝘢 𝘴𝘪𝘮𝘱𝘭𝘦 𝘉𝘳𝘢𝘻𝘪𝘭𝘪𝘢𝘯 𝘨𝘶𝘺 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘸𝘪𝘵𝘩 𝘐𝘛!\
+𝘎𝘳𝘢𝘥𝘶𝘢𝘵𝘦𝘥 𝘪𝘯 𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘚𝘤𝘪𝘦𝘯𝘤𝘦 𝘢𝘯𝘥 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘤𝘰𝘮𝘱𝘭𝘦𝘵𝘪𝘯𝘨 𝘮𝘺 𝘱𝘰𝘴𝘵𝘨𝘳𝘢𝘥𝘶𝘢𝘵𝘦 𝘥𝘦𝘨𝘳𝘦𝘦 𝘪𝘯 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨.
 
 # <img src="https://cdn.pixabay.com/animation/2022/11/30/19/48/19-48-34-65_512.gif" width="35">&nbsp;***Socials***:
 <p align="center">
