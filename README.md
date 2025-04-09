@@ -22,11 +22,12 @@
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=EduuuCr&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduuuCR&theme=nightowl&hide_border=false" alt="EduuuCR streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=EduuuCr&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduuuCR&theme=react&hide_border=false" alt="EduuuCR streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduuuCr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduuuCr&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=EduuuCr&theme=react&hide_border=false"/>
 </td>
 </tr>
 </table>
