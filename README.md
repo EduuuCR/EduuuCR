@@ -57,7 +57,6 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduuuCr&layout=donut-vertical)](https://github.com/EduuuCr/github-readme-stats)
 
-
+ 
 <img src="https://github.com/EduuuCR/EduuuCR/raw/main/assets/line-neon.gif" width="100%">
