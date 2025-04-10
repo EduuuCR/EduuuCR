@@ -26,7 +26,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduuuCR&theme=react&hide_border=false" alt="EduuuCR streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduuuCr&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduuuCr&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical"/>
 </td>
 </tr>
 </table>
@@ -56,6 +56,8 @@
 <br>
 <br>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduuuCr&layout=donut-vertical)](https://github.com/EduuuCr/github-readme-stats)
 
 
 <img src="https://github.com/EduuuCR/EduuuCR/raw/main/assets/line-neon.gif" width="100%">
