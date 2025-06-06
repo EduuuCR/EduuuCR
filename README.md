@@ -58,5 +58,9 @@
 
 
 
+<div align="center">
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&center=true&vCenter=true&width=185&height=20&lines=%C2%A9+BUILD+BY+EDUUUCR"  />
+</div>
+
  
 <img src="https://github.com/EduuuCR/EduuuCR/raw/main/assets/line-neon.gif" width="100%">
